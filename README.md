@@ -1,24 +1,24 @@
 
-Hello 👋, I'm Michelle Mwirigi!
+**Hello 👋, I'm Michelle Mwirigi!**
 
 A Front-End Software Engineer.
 
 
-< About Me >
+**< About Me >**
 
 My name is Michelle Mwirigi and I create captivating designs and curate web experiences using technologies such as Javascript and Python. I'm familiar with frameworks such as ReactJs and Django.
 
-< Currently >
+**< Currently >**
 
-Right now I'm working with C++, specifically Data Structures and Algorithms in C++
+Right now I'm working with C++, specifically Data Structures and Algorithms in C++ to understand low level programming.
 
 Similarly, I'm working on ReactJs & Typescript for Frontend Web Development.
 
-< Contacts >
+**< Contacts >**
 
 If you want to reach out to me, feel free to check out my socials and LinkedIn.
 
-🐦@MichelleMwirigi
+🐦https://twitter.com/MichelleMwirigi
 
 🔗https://www.linkedin.com/in/michelle-mwirigi-8228a651
 
