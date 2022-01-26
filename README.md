@@ -12,7 +12,7 @@ My name is Michelle Mwirigi and I create captivating designs and curate web expe
 
 Right now I'm working with C++, specifically Data Structures and Algorithms in C++ to understand low level programming.
 
-Similarly, I'm working on ReactJs & Typescript for Frontend Web Development.
+Similarly, I'm also working on ReactJs & Typescript for Frontend Web Development.
 
 **< Contacts >**
 
