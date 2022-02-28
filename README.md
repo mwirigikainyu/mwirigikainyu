@@ -1,7 +1,7 @@
 
 **Hello 👋, I'm Michelle Mwirigi!**
 
-A Front-End Software Engineer.
+A Software Engineer.
 
 
 **< About Me >**
