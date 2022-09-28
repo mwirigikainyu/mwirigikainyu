@@ -1,27 +1,29 @@
-![My Image](banner.png)
+## Hi! 👋
 
-**Hello 👋, I'm Michelle Mwirigi!**
-
-A Software Engineer.
+![banner](https://user-images.githubusercontent.com/56601444/192840499-3b0c7d31-a44e-4314-8b5e-13acfb25eabe.png)
 
 
-**< About Me >**
+> I believe data can always tell a story
 
-My name is Michelle Mwirigi and I create captivating designs and curate web experiences using technologies such as Javascript and Python. I'm familiar with frameworks such as ReactJs and Django.
 
-**< Currently >**
+I'm Michelle, with 2 years of experience as a software engineer and data analyst: collecting data, establishing facts and drawing valid conclusions, I am proficient in data mining, data visualisation, data processing, and predictive modelling. I enjoy data wrangling, cleansing, aggregation, and manipulation. I am capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.  I am well-versed in various statistical methods such as descriptive and diagnostic statistics with experience using Excel both as a data source and a visualisation tool. 
 
-Right now I'm working with C++, specifically Data Structures and Algorithms in C++ to understand low level programming.
+## Tech 
+```
+Python
+Tableau/PowerBI
+SQL
+Javascript
+React/Angular
+C++
+```
 
-Similarly, I'm also working on ReactJs & Typescript for Frontend Web Development.
 
-**< Contacts >**
+Feel free to reach out for any work opportunities.
 
-If you want to reach out to me, feel free to check out my socials and LinkedIn.
+🔵https://twitter.com/MichelleMwirigi
 
-🐦https://twitter.com/MichelleMwirigi
-
-🔗https://www.linkedin.com/in/michelle-mwirigi-8228a651
+🔵 https://www.linkedin.com/in/michelle-mwirigi-8228a651
 
 <!---
 mwirigikainyu/mwirigikainyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
