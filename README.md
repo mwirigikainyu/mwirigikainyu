@@ -1,3 +1,4 @@
+![My Image](banner.png)
 
 **Hello 👋, I'm Michelle Mwirigi!**
 
