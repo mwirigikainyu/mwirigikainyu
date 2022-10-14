@@ -17,6 +17,7 @@ Javascript
 React/Angular
 C++
 ```
+![data_analyst_associate_badge](https://user-images.githubusercontent.com/56601444/195754607-643b01b4-126a-4fc7-8dd0-9980300ae495.png)
 
 
 Feel free to reach out for any work opportunities.
