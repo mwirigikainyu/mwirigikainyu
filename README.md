@@ -23,8 +23,7 @@ C++
 Feel free to reach out for any work opportunities.
 
 🔵https://twitter.com/MichelleMwirigi
-
-🔵 https://www.linkedin.com/in/michelle-mwirigi-8228a651
+🔵https://www.linkedin.com/in/michelle-mwirigi/
 
 <!---
 mwirigikainyu/mwirigikainyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
