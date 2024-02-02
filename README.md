@@ -6,7 +6,7 @@
 > I believe data can always tell a story
 
 
-I'm Michelle, with 2 years of experience as a software engineer and data analyst: collecting data, establishing facts and drawing valid conclusions, I am proficient in data mining, data visualisation, data processing, and predictive modelling. I enjoy data wrangling, cleansing, aggregation, and manipulation. I am capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.  I am well-versed in various statistical methods such as descriptive and diagnostic statistics with experience using Excel both as a data source and a visualisation tool. 
+I'm Michelle, with 3+ years of experience as a software engineer and data analyst: collecting data, establishing facts and drawing valid conclusions, I am proficient in data mining, data visualisation, data processing, and predictive modelling. I enjoy data wrangling, cleansing, aggregation, and manipulation. I am capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.  I am well-versed in various statistical methods such as descriptive and diagnostic statistics with experience using Excel both as a data source and a visualisation tool. 
 
 ## Tech 
 ```
